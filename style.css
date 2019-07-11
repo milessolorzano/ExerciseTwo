@@ -1,0 +1,41 @@
+body {
+  background-color: gray;
+}
+
+.containerpic {
+  background-color: black;
+  color: white;
+}
+
+.name {
+  font-family: fantasy;
+}
+
+.firstp {
+  background-color: red;
+}
+
+.secondp {
+  background-color: blue;
+}
+
+ul {
+  list-style: square;
+}
+
+ol {
+  list-style: lower-alpha;
+}
+
+.nav {
+  border: solid;
+  background-color: white;
+}
+
+a:hover {
+  color: yellow;
+}
+img {
+  height: 250px;
+  width: 250px;
+}
